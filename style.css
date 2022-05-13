@@ -28,15 +28,15 @@ a:active {
 }
 
 .title{
-  font-family: 'Sansita';
-  font-size: 55px;
+  font-family: Arial;
+  font-size: 45px;
   padding-bottom: 15px;
   text-align: left;
 }
 
 .intro{
-  font-family: charter;
-  font-size: 16px;
+  font-family: Arial;
+  font-size: 14px;
   padding-top: 20px;
   text-align: left;
   width: 90vw;
